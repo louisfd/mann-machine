@@ -1,2 +1,2 @@
-class InvalidAlgorithmInputException(Exception):
+class InvalidLanguageInputException(Exception):
     pass
