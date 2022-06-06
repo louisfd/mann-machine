@@ -1,0 +1,2 @@
+class InvalidAlgorithmInputException(Exception):
+    pass
